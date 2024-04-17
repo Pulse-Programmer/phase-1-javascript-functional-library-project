@@ -36,3 +36,5 @@ jspm_packages/
 # Package lockfiles
 package-lock.json
 yarn.lock
+
+.results.json
